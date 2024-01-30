@@ -74,6 +74,11 @@
       <email></email>
     </developer>
     <developer>
+      <id>mighty44</id>
+      <name>John Smith</name>
+      <email></email>
+    </developer>
+    <developer>
       <id>dougmorato</id>
       <name>Doug Morato</name>
       <email>doug.morato@owasp.org</email>
